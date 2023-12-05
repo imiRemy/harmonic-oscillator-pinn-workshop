@@ -2,7 +2,7 @@
 Introductory workshop on PINNs using the harmonic oscillator
 
 ## Setup
-The conda environment the jupyter notebooks can be created using the workshop.yml configuration file.
+The conda environment for the jupyter notebooks can be created using the ```workshop.yml``` configuration file.
 
 ```conda env create --file workshop.yml```
 
