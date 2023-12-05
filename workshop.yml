@@ -1,0 +1,15 @@
+name: workshop
+
+channels:
+  - defaults
+  - pytorch
+
+dependencies:
+  - python=3
+  - jupyter
+  - numpy
+  - matplotlib
+  - pytorch
+  - torchvision
+  - torchaudio
+
